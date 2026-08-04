@@ -1,180 +1,442 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leeh Vann Joshua | Portfolio</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+/* ==========================================
+   GOOGLE FONT
+========================================== */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
-<!-- Navigation -->
-<header>
-    <nav>
-        <h2 class="logo">☁ Vannila.dev</h2>
+/* ==========================================
+   COLOR PALETTE
+========================================== */
 
-        <ul>
-            <li><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#portfolio">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-</header>
+:root{
 
-<!-- Hero -->
-<section id="home" class="hero">
+    --sky-blue:#BEEBFF;
+    --baby-blue:#8FD8FF;
+    --pastel-pink:#FFD6E8;
+    --cream:#FFF8F5;
+    --white:#FFFFFF;
+    --text:#4F6D7A;
+    --shadow:rgba(125,170,220,.20);
 
-    <div class="hero-text">
+}
 
-        <h1>Hello, I'm <span>Leeh Vann Joshua</span></h1>
+/* ==========================================
+   GLOBAL
+========================================== */
 
-        <h3>☁ Computer Science Student</h3>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    scroll-behavior:smooth;
+}
 
-        <p>
-            I design, build, and create digital experiences with a mix of
-            creativity and code.
-        </p>
+body{
 
-        <a href="#portfolio" class="btn">
-            View My Projects
-        </a>
+    font-family:'Poppins',sans-serif;
 
-    </div>
+    background:linear-gradient(
+    180deg,
+    #BEEBFF 0%,
+    #EAF8FF 35%,
+    #FFF8F5 100%);
 
-    <div class="hero-image">
+    color:var(--text);
 
-        <img src="img/profile.png" alt="Profile">
+    overflow-x:hidden;
 
-    </div>
+}
 
-</section>
+/* ==========================================
+   SCROLLBAR
+========================================== */
 
-<!-- About -->
+::-webkit-scrollbar{
+    width:10px;
+}
 
-<section id="about" class="about">
+::-webkit-scrollbar-thumb{
 
-    <h2>☁ About Me</h2>
+    background:var(--baby-blue);
+    border-radius:20px;
 
-    <div class="card">
+}
 
-        <p>
+::-webkit-scrollbar-track{
 
-            I'm a Computer Science student passionate about web development,
-            graphic design, UI/UX, and game development.
+    background:#EAF7FF;
 
-            I enjoy turning ideas into clean, aesthetic, and functional
-            digital experiences.
+}
 
-        </p>
+/* ==========================================
+   HERO SECTION
+========================================== */
 
-    </div>
+.hero{
 
-</section>
+    min-height:100vh;
 
-<!-- Portfolio -->
+    display:flex;
 
-<section id="portfolio" class="portfolio">
+    flex-direction:column;
 
-<h2>My Creations ✨</h2>
+    justify-content:center;
 
-<div class="projects">
+    align-items:center;
 
-<div class="project-card">
+    text-align:center;
 
-<img src="img/project1.png">
+    padding:50px;
 
-<h3>GitHub Portfolio</h3>
+}
 
-<p>
-Collection of coding projects and repositories.
-</p>
+.hero h1{
 
-</div>
+    font-size:4rem;
 
-<div class="project-card">
+    color:#3E5F75;
 
-<img src="img/project2.png">
+    margin-bottom:15px;
 
-<h3>Graphic Designs</h3>
+}
 
-<p>
-Posters, social media graphics, branding, and layouts.
-</p>
+.hero p{
 
-</div>
+    font-size:1.3rem;
 
-<div class="project-card">
+    max-width:650px;
 
-<img src="img/project3.png">
+    margin-bottom:35px;
 
-<h3>Game Projects</h3>
+}
 
-<p>
-Small games, mechanics, and experimental ideas.
-</p>
+/* ==========================================
+   BUTTON
+========================================== */
 
-</div>
+.cta-button{
 
-</div>
+    background:var(--baby-blue);
 
-</section>
+    color:white;
 
-<!-- Skills -->
+    text-decoration:none;
 
-<section class="skills">
+    padding:15px 35px;
 
-<h2>Skills 💙</h2>
+    border-radius:40px;
 
-<div class="skill-list">
+    font-weight:600;
 
-<span>HTML</span>
+    transition:.35s;
 
-<span>CSS</span>
+    box-shadow:0 10px 20px var(--shadow);
 
-<span>JavaScript</span>
+}
 
-<span>Python</span>
+.cta-button:hover{
 
-<span>C#</span>
+    background:var(--pastel-pink);
 
-<span>Graphic Design</span>
+    transform:translateY(-6px);
 
-<span>UI/UX</span>
+}
 
-</div>
+/* ==========================================
+   SECTION TITLE
+========================================== */
 
-</section>
+section{
 
-<!-- Contact -->
+    padding:90px 10%;
 
-<section id="contact" class="contact">
+}
 
-<h2>Let's Connect ☁</h2>
+section h2{
 
-<p>
-📧 irinn00@gmail.com
-</p>
+    text-align:center;
 
-<p>
-Always open to collaborations and exciting projects.
-</p>
+    font-size:2.5rem;
 
-<a href="mailto:irinn00@gmail.com" class="btn">
-Send Email
-</a>
+    margin-bottom:40px;
 
-</section>
+}
 
-<footer>
+/* ==========================================
+   ABOUT
+========================================== */
 
-<p>
+.about{
 
-Made with 💙 and lots of coffee.
+    background:#FFFDFD;
 
-</p>
+}
 
-</footer>
+.about p{
 
-</body>
-</html>
+    max-width:850px;
+
+    margin:auto;
+
+    text-align:center;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:25px;
+
+    box-shadow:0 10px 30px var(--shadow);
+
+}
+
+/* ==========================================
+   PORTFOLIO
+========================================== */
+
+.portfolio{
+
+    background:#F8FDFF;
+
+}
+
+.portfolio{
+
+    display:flex;
+
+    flex-direction:column;
+
+}
+
+.portfolio-item{
+
+    width:320px;
+
+    background:white;
+
+    padding:20px;
+
+    margin:20px;
+
+    border-radius:25px;
+
+    box-shadow:0 10px 25px var(--shadow);
+
+    transition:.35s;
+
+}
+
+.portfolio-item:hover{
+
+    transform:translateY(-12px);
+
+}
+
+.portfolio img{
+
+    width:100%;
+
+    border-radius:18px;
+
+    margin-bottom:15px;
+
+}
+
+.portfolio h3{
+
+    margin-bottom:10px;
+
+}
+
+/* ==========================================
+   CONTACT
+========================================== */
+
+.contact{
+
+    text-align:center;
+
+}
+
+.contact p{
+
+    margin-bottom:20px;
+
+}
+
+/* ==========================================
+   FOOTER
+========================================== */
+
+footer{
+
+    background:var(--baby-blue);
+
+    color:white;
+
+    padding:40px;
+
+    text-align:center;
+
+}
+
+footer ul{
+
+    list-style:none;
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:35px;
+
+    margin-bottom:20px;
+
+}
+
+footer a{
+
+    color:white;
+
+    text-decoration:none;
+
+    transition:.3s;
+
+}
+
+footer a:hover{
+
+    color:var(--pastel-pink);
+
+}
+
+/* ==========================================
+   FLOATING ANIMATION
+========================================== */
+
+.hero h1{
+
+    animation:float 4s ease-in-out infinite;
+
+}
+
+@keyframes float{
+
+    0%{
+        transform:translateY(0);
+    }
+
+    50%{
+        transform:translateY(-10px);
+    }
+
+    100%{
+        transform:translateY(0);
+    }
+
+}
+
+/* ==========================================
+   CLOUD DECORATION
+========================================== */
+
+body::before{
+
+    content:"☁";
+
+    position:fixed;
+
+    top:8%;
+
+    left:6%;
+
+    font-size:90px;
+
+    opacity:.18;
+
+    animation:cloud 20s linear infinite;
+
+}
+
+body::after{
+
+    content:"☁";
+
+    position:fixed;
+
+    bottom:10%;
+
+    right:6%;
+
+    font-size:120px;
+
+    opacity:.15;
+
+    animation:cloud2 25s linear infinite;
+
+}
+
+@keyframes cloud{
+
+    from{
+
+        transform:translateX(-40px);
+
+    }
+
+    to{
+
+        transform:translateX(80px);
+
+    }
+
+}
+
+@keyframes cloud2{
+
+    from{
+
+        transform:translateX(60px);
+
+    }
+
+    to{
+
+        transform:translateX(-80px);
+
+    }
+
+}
+
+/* ==========================================
+   RESPONSIVE
+========================================== */
+
+@media(max-width:768px){
+
+.hero h1{
+
+    font-size:2.5rem;
+
+}
+
+.hero p{
+
+    font-size:1rem;
+
+}
+
+.portfolio-item{
+
+    width:100%;
+
+}
+
+footer ul{
+
+    flex-direction:column;
+
+    gap:15px;
+
+}
+
+}
