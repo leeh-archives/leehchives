@@ -1,40 +1,110 @@
-<section id="home" class="hero">
-    <h1>Leeh Vann Joshua M. Lomocso</h1>
-    <p>Graphic Designer & Web Developer</p>
-    <a href="#leeh-archives" class="cta-button">View My Work</a>
-</section>
+<!-- ==========================================
+     LEEH VANN JOSHUA M. LOMOCSO
+     Personal Portfolio
+========================================== -->
 
-<section id="about" class="about">
-    <h2>About Me</h2>
-    <p>A Computer Science student, aiming to improve high my Graphic Design skills. Slowly learning development and programming </p>
-</section>
+<div align="center">
 
-<section id="portfolio" class="portfolio">
-    <h2>Portfolio</h2>
-    <div class="portfolio-item">
-        <img src="img/img1.jpg" alt="Project 1">
-        <h3>Project 1</h3>
-        <p>A GitHub repository showcasing my projects, code, and learning journey...</p>
-    </div>
-    <div class="portfolio-item">
-        <img src="img/img1.jpg" alt="Project 2">
-        <h3>Project 2</h3>
-        <p>Description of Project 2</p>
-    </div>
-    <!-- Add more portfolio items as needed -->
-</section>
+# 👋 Hi, I'm Leeh Vann Joshua M. Lomocso
 
-<section id="contact" class="contact">
-    <h2>Contact Me</h2>
-    <p>Contact or email me at lomocsoleehvann@gmail.com</p>
-</section>
+### Computer Science Student
+### Aspiring Graphic Designer & Web Developer
 
-<footer>
-    <ul>
-        <li><a href="#home">Home</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
-    </ul>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
-</footer>
+*"Design with purpose. Build with passion."*
+
+<br>
+
+[🌐 Portfolio](#featured-projects) •
+[📧 Contact](#lets-connect)
+
+</div>
+
+---
+
+## ✦ About Me
+
+I'm a Computer Science student who enjoys bringing ideas to life through both
+design and code. I believe that a good project isn't just functional—it should
+also provide a great experience for the people who use it.
+
+Whether I'm designing publication materials, developing websites, or learning a
+new programming language, I'm always looking for ways to improve my creativity
+and technical skills.
+
+---
+
+# Featured Projects
+
+## 🎨 Graphic Design Collection
+
+<img src="img/img1.jpg" width="100%">
+
+A collection of posters, publication materials, event branding, and social
+media graphics created for organizations, academic projects, and personal
+practice.
+
+---
+
+## 💻 Web Development
+
+<img src="https://static.wikia.nocookie.net/p__/images/4/46/Cinnamoroll_Mighty.png/revision/latest?cb=20251026192225&path-prefix=protagonist" width="100%">
+
+Responsive websites built using HTML, CSS, and JavaScript with a focus on clean
+layouts, accessibility, and user-friendly interfaces.
+
+---
+
+## 🚀 Programming Projects
+
+<img src="img/img3.jpg" width="100%">
+
+Programming activities and software projects developed throughout my Computer
+Science journey, showcasing my growth in logic, problem-solving, and coding.
+
+---
+
+# Skills
+
+```text
+Frontend
+▰▰▰▰▰▰▰▱▱▱ HTML
+▰▰▰▰▰▰▱▱▱▱ CSS
+▰▰▰▰▰▱▱▱▱▱ JavaScript
+
+Programming
+▰▰▰▰▰▰▱▱▱▱ Python
+▰▰▰▰▰▰▰▱▱▱ C#
+
+Design
+▰▰▰▰▰▰▰▰▱▱ Canva
+▰▰▰▰▰▰▱▱▱▱ Figma
+▰▰▰▰▰▱▱▱▱▱ Photoshop
+```
+
+---
+
+## Currently Learning
+
+- Responsive Web Design
+- UI / UX Design
+- JavaScript
+- Git & GitHub
+- Backend Development
+
+---
+
+# Let's Connect
+
+📧 **Email:** your-email@example.com
+
+💻 **GitHub:** github.com/yourusername
+
+---
+
+<div align="center">
+
+Thanks for visiting my portfolio.
+
+*"Every line of code is another step toward becoming the developer I aspire to be."*
+
+</div>
