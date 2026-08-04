@@ -1,7 +1,4 @@
-<!-- ==========================================
-     LEEH VANN JOSHUA M. LOMOCSO
-     Personal Portfolio
-========================================== -->
+<!-- LEEH VANN JOSHUA M. LOMOCSO - Personal Portfolio -->
 
 <div align="center">
 
@@ -52,6 +49,9 @@ practice.
 
 <img src="[https://static.wikia.nocookie.net/p__/images/4/46/Cinnamoroll_Mighty.png/revision/latest?cb=20251026192225&path-prefix=protagonist](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Confused.jpg)" width="100%">
 
+
+[Web Projects](https://github.com/leeh-archives?tab=repositories)
+
 Responsive websites built using HTML, CSS, and JavaScript with a focus on clean
 layouts, accessibility, and user-friendly interfaces.
 
@@ -60,6 +60,8 @@ layouts, accessibility, and user-friendly interfaces.
 ## 🚀 Programming Projects
 
 <img src="[img/img3.jpg](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Sad.jpg)" width="100%">
+
+[Programming Projects](https://github.com/leeh-archives?tab=projects)
 
 Programming activities and software projects developed throughout my Computer
 Science journey, showcasing my growth in logic, problem-solving, and coding.
@@ -90,7 +92,7 @@ Design
 
 - Responsive Web Design
 - UI / UX Design
-- JavaScript
+- Game Asset Development
 - Git & GitHub
 - Backend Development
 
@@ -106,8 +108,6 @@ Design
 
 <div align="center">
 
-Thanks for visiting my portfolio.
-
-*"Every line of code is another step toward becoming the developer I aspire to be."*
+Thanks for visiting my portfolio! ( > - <)_/<3
 
 </div>
