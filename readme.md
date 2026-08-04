@@ -8,7 +8,7 @@
 # 👋 Hi, I'm Leeh Vann Joshua M. Lomocso
 
 ### Computer Science Student
-### Aspiring Graphic Designer & Web Developer
+### Graphic Designer & Web Developer
 
 *"Design with purpose. Build with passion."*
 
@@ -39,7 +39,10 @@ and technical skills.
 
 <img src="[img/img1.jpg](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Magical.jpg)" width="100%">
 
-A collection of posters, publication materials, event branding, and social
+# My Facebook Page
+[Facebook Page](https://web.facebook.com/profile.php?id=61578179354798)
+
+A collection of my posters, publication materials, event branding, and social
 media graphics created for organizations, academic projects, and personal
 practice.
 
