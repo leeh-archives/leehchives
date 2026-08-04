@@ -24,7 +24,7 @@
 ## ✦ About Me
 
 I'm a Computer Science student who enjoys bringing ideas to life through both
-design and code. I believe that a good project isn't just functional—it should
+design and code. I believe that a good project isn't just functional, it should
 also provide a great experience for the people who use it.
 
 Whether I'm designing publication materials, developing websites, or learning a
@@ -37,7 +37,7 @@ and technical skills.
 
 ## 🎨 Graphic Design Collection
 
-<img src="img/img1.jpg" width="100%">
+<img src="[img/img1.jpg](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Magical.jpg)" width="100%">
 
 A collection of posters, publication materials, event branding, and social
 media graphics created for organizations, academic projects, and personal
@@ -47,7 +47,7 @@ practice.
 
 ## 💻 Web Development
 
-<img src="https://static.wikia.nocookie.net/p__/images/4/46/Cinnamoroll_Mighty.png/revision/latest?cb=20251026192225&path-prefix=protagonist" width="100%">
+<img src="[https://static.wikia.nocookie.net/p__/images/4/46/Cinnamoroll_Mighty.png/revision/latest?cb=20251026192225&path-prefix=protagonist](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Confused.jpg)" width="100%">
 
 Responsive websites built using HTML, CSS, and JavaScript with a focus on clean
 layouts, accessibility, and user-friendly interfaces.
@@ -56,7 +56,7 @@ layouts, accessibility, and user-friendly interfaces.
 
 ## 🚀 Programming Projects
 
-<img src="img/img3.jpg" width="100%">
+<img src="[img/img3.jpg](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Sad.jpg)" width="100%">
 
 Programming activities and software projects developed throughout my Computer
 Science journey, showcasing my growth in logic, problem-solving, and coding.
@@ -67,18 +67,18 @@ Science journey, showcasing my growth in logic, problem-solving, and coding.
 
 ```text
 Frontend
-▰▰▰▰▰▰▰▱▱▱ HTML
-▰▰▰▰▰▰▱▱▱▱ CSS
-▰▰▰▰▰▱▱▱▱▱ JavaScript
+▰▰▰▰▱▱▱▱▱▱ HTML
+▰▰▰▰▰▱▱▱▱▱ CSS
+▰▰▰▱▱▱▱▱▱▱ JavaScript
 
 Programming
-▰▰▰▰▰▰▱▱▱▱ Python
-▰▰▰▰▰▰▰▱▱▱ C#
+▰▰▰▰▱▱▱▱▱▱ Python
+▰▰▰▰▰▰▱▱▱▱ C#
 
 Design
 ▰▰▰▰▰▰▰▰▱▱ Canva
-▰▰▰▰▰▰▱▱▱▱ Figma
-▰▰▰▰▰▱▱▱▱▱ Photoshop
+▰▰▰▰▰▱▱▱▱▱ Figma
+▰▰▰▱▱▱▱▱▱▱ Photoshop
 ```
 
 ---
@@ -95,9 +95,9 @@ Design
 
 # Let's Connect
 
-📧 **Email:** your-email@example.com
+📧 **Email:** lomocsoleehvann@gmail.com
 
-💻 **GitHub:** github.com/yourusername
+💻 **GitHub:** github.com/leeh-archives
 
 ---
 
