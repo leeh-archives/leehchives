@@ -1,113 +1,41 @@
-<!-- LEEH VANN JOSHUA M. LOMOCSO - Personal Portfolio -->
+<section id="home" class="home">
+    <h1>Leeh Vann Joshua M. Lomocso</h1>
+    <p>Web Developer & Designer</p>
+    <a href="#portfolio" class="cta-button">View My Work</a>
+</section>
 
-<div align="center">
+<section id="about" class="about">
+    <h2>About Me</h2>
+    <p>CS student, builder debugs by day, learns by night...</p>
+</section>
 
-# 👋 Hi, I'm Leeh Vann Joshua M. Lomocso
+<section id="portfolio" class="portfolio">
+    <h2>Portfolio</h2>
+    <div class="portfolio-item">
+        <img src="img/img1.jpg" alt="Project 1">
+        <h3>Project 1: Game Development - Scrap Knights </h3>
+        <p>A final project for our Data Structures and Algorithms course.</p>
+    </div>
+    <div class="portfolio-item">
+        <img src="img/img1.jpg" alt="Project 2">
+        <h3>Project 2</h3>
+        <p>Description of Project 2...</p>
+    </div>
 
-### Computer Science Student
-### Graphic Designer & Web Developer
+    
+</section>
 
-*"Design with purpose. Build with passion."*
+<section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>Contact or email me at lomocsoleehvann@gmail.com</p>
+</section>
 
-<br>
-
-[🌐 Portfolio](#featured-projects) •
-[📧 Contact](#lets-connect)
-
-</div>
-
----
-
-## ✦ About Me
-
-I'm a Computer Science student who enjoys bringing ideas to life through both
-design and code. I believe that a good project isn't just functional, it should
-also provide a great experience for the people who use it.
-
-Whether I'm designing publication materials, developing websites, or learning a
-new programming language, I'm always looking for ways to improve my creativity
-and technical skills.
-
----
-
-# Featured Projects
-
-## 🎨 Graphic Design Collection
-
-<img src="[img/img1.jpg](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Magical.jpg)" width="100%">
-
-# My Facebook Page
-[Facebook Page](https://web.facebook.com/profile.php?id=61578179354798)
-
-A collection of my posters, publication materials, event branding, and social
-media graphics created for organizations, academic projects, and personal
-practice.
-
----
-
-## 💻 Web Development
-
-<img src="[https://static.wikia.nocookie.net/p__/images/4/46/Cinnamoroll_Mighty.png/revision/latest?cb=20251026192225&path-prefix=protagonist](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Confused.jpg)" width="100%">
-
-
-[Web Projects](https://github.com/leeh-archives?tab=repositories)
-
-Responsive websites built using HTML, CSS, and JavaScript with a focus on clean
-layouts, accessibility, and user-friendly interfaces.
-
----
-
-## 🚀 Programming Projects
-
-<img src="[img/img3.jpg](https://hero.fandom.com/wiki/Cinnamoroll?file=Cinnamoroll_Sad.jpg)" width="100%">
-
-[Programming Projects](https://github.com/leeh-archives?tab=projects)
-
-Programming activities and software projects developed throughout my Computer
-Science journey, showcasing my growth in logic, problem-solving, and coding.
-
----
-
-# Skills
-
-```text
-Frontend
-▰▰▰▰▱▱▱▱▱▱ HTML
-▰▰▰▰▰▱▱▱▱▱ CSS
-▰▰▰▱▱▱▱▱▱▱ JavaScript
-
-Programming
-▰▰▰▰▱▱▱▱▱▱ Python
-▰▰▰▰▰▰▱▱▱▱ C#
-
-Design
-▰▰▰▰▰▰▰▰▱▱ Canva
-▰▰▰▰▰▱▱▱▱▱ Figma
-▰▰▰▱▱▱▱▱▱▱ Photoshop
-```
-
----
-
-## Currently Learning
-
-- Responsive Web Design
-- UI / UX Design
-- Game Asset Development
-- Git & GitHub
-- Backend Development
-
----
-
-# Let's Connect
-
-📧 **Email:** lomocsoleehvann@gmail.com
-
-💻 **GitHub:** github.com/leeh-archives
-
----
-
-<div align="center">
-
-Thanks for visiting my portfolio! ( > - <)_/<3
-
-</div>
+<footer>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+    <p>&copy; 2026 Leeh Vann Joshua M. Lomocso. All rights reserved.</p>
+</footer>
